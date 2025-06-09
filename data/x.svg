@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg865">
+  <defs
+     id="defs859">
+    <rect
+       x="184"
+       y="377"
+       width="260"
+       height="153"
+       id="rect1447" />
+    <rect
+       x="55"
+       y="279"
+       width="183"
+       height="187"
+       id="rect1441" />
+  </defs>
+  <metadata
+     id="metadata862">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <circle
+       style="fill:#91d1d5;fill-opacity:1;stroke-width:3.73334"
+       id="path1435"
+       cx="256"
+       cy="256"
+       r="256" />
+    <rect
+       style="fill:#218cf8;fill-opacity:1;stroke-width:1.49999"
+       id="rect1428"
+       width="384"
+       height="384"
+       x="128"
+       y="128"
+       rx="48"
+       ry="48" />
+    <g
+       aria-label="X"
+       transform="matrix(2.4218338,0,0,2.4218338,63.695519,-537.10744)"
+       id="text1439"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1441);fill:#ffffff;fill-opacity:1">
+      <path
+         d="m 149.608,398.68337 q 1.584,2.304 1.584,4.896 0,2.88 -1.872,5.04 -1.872,2.16 -5.04,2.16 -3.6,0 -5.76,-2.736 l -31.248,-43.344 -33.12,43.92 q -2.16,2.16 -5.184,2.16 -3.168,0 -5.04,-2.016 -1.728,-2.016 -1.728,-4.896 0,-2.88 1.728,-5.184 l 33.552,-44.64 -31.68,-43.92 q -1.44,-1.872 -1.44,-4.464 0,-3.024 1.872,-5.184 1.872,-2.16 5.04,-2.16 3.744,0 5.328,2.16 l 30.96,42.912 32.256,-42.912 q 2.016,-2.16 5.328,-2.16 3.024,0 4.752,2.016 1.872,2.016 1.872,4.896 0,2.448 -1.584,4.896 l -32.832,43.776 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#ffffff;fill-opacity:1"
+         id="path2030" />
+    </g>
+    <text
+       xml:space="preserve"
+       id="text1445"
+       style="font-family:Comfortaa;font-size:144px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Comfortaa;white-space:pre;shape-inside:url(#rect1447);" />
+  </g>
+</svg>

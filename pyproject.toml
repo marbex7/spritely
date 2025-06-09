@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools >= 77.0.3", "setuptools_scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spritely"
+dynamic = ["version"]
+description = "Generate an svg sprite file from other svg files"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "GPL-2.0"
+license-files = ["LICEN[CS]E*"]
+dependencies = [
+	"attrs",
+	"click",
+	"PyYAML",
+]
+
+[project.urls]
+Homepage = "https://github.com/marbex7/spritely"
+Issues = "https://github.com/marbex7/spritely/issues"
+
+[project.scripts]
+spritely = "spritely.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["spritely"]
+
+[tool.setuptools_scm]

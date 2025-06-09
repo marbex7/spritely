@@ -1,0 +1,18 @@
+---
+root_path: /home/marbex7/Projects/spritely/data
+sources:
+  - file_name: ic.svg
+    icon_name: "my-ic-icon"
+  - file_name: a.svg
+    icon_name: "my-a-icon"
+  - file_name: t.svg
+    icon_name: "my-t-icon"
+  - file_name: sprite_test.svg
+    icon_name: "my-sprite-test-icon"
+  - file_name: g.svg
+    icon_name: "my-g-icon"
+  - file_name: xw.svg
+    icon_name: "my-xw-icon"
+  - file_name: x.svg
+    icon_name: "my-x-icon"
+...
