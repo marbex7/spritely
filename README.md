@@ -39,3 +39,8 @@ sources:
     icon_name: "my-x-icon"
 ...
 ```
+
+# Credits
+This article https://www.fullstackfoundations.com/blog/web-developer-svg was very helpful in clarifying the relationship between viewBox and viewport.
+
+This article is also extremely instructive https://www.sarasoueidan.com/blog/svg-coordinate-systems/.
